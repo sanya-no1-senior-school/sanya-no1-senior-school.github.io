@@ -1,0 +1,61 @@
+.mybrand {
+    display: inline-block;
+    padding-top: .3125rem;
+    padding-bottom: .3125rem;
+    margin-right: 1rem;
+    font-size: 1.25rem;
+    line-height: inherit;
+    white-space: nowrap;
+    color: blue;
+    font-weight: bold;
+
+}
+
+.mybrand:hover {
+    display: inline-block;
+    padding-top: .3125rem;
+    padding-bottom: .3125rem;
+    margin-right: 1rem;
+    font-size: 1.25rem;
+    line-height: inherit;
+    white-space: nowrap;
+    color: lightsteelblue;
+    font-weight: bold;
+}
+
+.block-card-sm{
+    background-color: rgb(252, 252, 252);
+    width: 100%;
+    box-shadow: 3px;
+    height:auto;
+    padding: 15px;
+    margin-bottom:10px;
+}
+
+.block-header{
+    font-weight: lighter;
+    font-size: 23px;
+    display: block;
+}
+
+.block-text{
+    margin-top:25px;
+    color:mediumturquoise;
+    display: block;
+}
+
+.block-link{
+    color:lightsteelblue;
+    display: block;
+    margin-top:15px;
+    cursor: pointer;
+    text-decoration:none;
+}
+
+.block-link:hover{
+    color:rgb(119, 145, 179);
+    display: block;
+    margin-top:15px;
+    cursor: pointer;
+    text-decoration:none;
+}
