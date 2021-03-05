@@ -46,6 +46,13 @@
     color:silver;
 }
 
+.block-describe-bottom{
+    font-weight: lighter;
+    font-size: 12px;
+    display: block;
+    color:silver;
+}
+
 .block-text{
     margin-top:25px;
     color:mediumturquoise;
