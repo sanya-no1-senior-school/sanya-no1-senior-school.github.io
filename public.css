@@ -6,7 +6,7 @@
     font-size: 1.25rem;
     line-height: inherit;
     white-space: nowrap;
-    color: blue;
+    color: lightsteelblue;
     font-weight: bold;
     text-decoration:none;
 }
@@ -19,7 +19,7 @@
     font-size: 1.25rem;
     line-height: inherit;
     white-space: nowrap;
-    color: lightsteelblue;
+    color: lightskyblue;
     font-weight: bold;
     text-decoration:none;
 }
@@ -66,4 +66,20 @@
     margin-top:15px;
     cursor: pointer;
     text-decoration:none;
+}
+
+.hot-title{
+    display: block;
+    text-decoration:none;
+    color:dimgrey;
+    cursor: pointer;
+    margin:5px;
+}
+
+.hot-title:hover{
+    display: block;
+    text-decoration:none;
+    color:rgb(175, 175, 175);
+    cursor: pointer;
+    margin:5px;
 }
